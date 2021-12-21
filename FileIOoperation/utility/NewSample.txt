@@ -1,0 +1,4 @@
+﻿reflection
+regex
+how to create and call object
+oops concept
